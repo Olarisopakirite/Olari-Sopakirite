@@ -1,1 +1,1 @@
-# Olari-Sopakirite
+I'm a Data Analyst with expertise in Microsoft Excel (Pivot Tables, VLOOKUP, Power Query, Dashboards) SQL for Data Querying & Analysis, Tableau & Power BI for Data Visualization, Python (for basic data analysis & automation), Google Analytics & CRM Platforms, specializing in transforming raw data into actionable insights. My projects focus on business intelligence, predictive modeling, and data-driven decision-making.
